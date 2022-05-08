@@ -12,6 +12,9 @@ python3 main.py <filename> <dup>
   filename: **ruta** al fichero que contiene la lista de palabras, una por lÃ­nea
   dup: **yes|no**, yes para eliminar palabras duplicadas, no para mantener la lista
 
+
+Sergio - Agregada modificación de fichero .py para traducción a inglés.
+
 ## EjecuciÃ³n con el Makefile
 Para ejecutar en Docker:
 
@@ -25,3 +28,4 @@ Para ejecutar en local:
 
 PMT: Nuevo fichero "palabras.txt", el cual serÃ¡utilizado en el script como fichero de entrada.
      Modificado Makefile para que se pase por parÃmetro el nuevo fichero de palabras.
+
