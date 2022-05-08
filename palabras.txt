@@ -1,0 +1,9 @@
+zapato
+arbol
+conjunto
+zapato
+unir
+boca
+rama
+git
+practica
